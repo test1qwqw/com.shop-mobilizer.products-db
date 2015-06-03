@@ -2,7 +2,7 @@
 <widget
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
-  id          = "com.shop_mobilizer.products-db"
+  id          = "com.shop-mobilizer.products-db"
   version     = "15.06.03"
   versionCode = "150603"
 >
